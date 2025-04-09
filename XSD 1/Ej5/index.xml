@@ -8,7 +8,7 @@ xsi:noNamespaceSchemaLocation="fichas.xsd">
     </ficha>
     <ficha>
         <nombre>Mario Moreno</nombre>
-        <iniciales>MM</iniciales>
+        <iniciales>MMC</iniciales>
         <edad>23</edad>
     </ficha>
     <ficha>
@@ -17,8 +17,8 @@ xsi:noNamespaceSchemaLocation="fichas.xsd">
         <edad>24</edad>
     </ficha>
     <ficha>
-        <nombre>pablo ruiz picasso</nombre>
-        <iniciales>prp</iniciales>
+        <nombre>Pablo Ruiz Picasso</nombre>
+        <iniciales>PRP</iniciales>
         <edad>24</edad>
     </ficha>
 </fichas>
