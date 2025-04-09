@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 09/04/2025
+Ejercicio: Validacion XML - XSD 4
+-->
 <alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="alumnos.xsd">
     <alumno dni="11111111A">
         <nombre>Juan Andrés</nombre>
