@@ -6,7 +6,7 @@ Fecha: 09/04/2025
 Ejercicio: Validacion XML - XSD 3
 -->
 <articulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:noNamespaceSchemaLocation="precios.xsd">
+xsi:noNamespaceSchemaLocation="articulos.xsd">
     <articulo>
         <nombre>Mesa</nombre>
         <precio moneda="Euro">50</precio>
