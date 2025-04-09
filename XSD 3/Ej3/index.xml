@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+Nombre: Ignacio Carrillo Molero
+Curso: ASIR 1
+Fecha: 09/04/2025
+Ejercicio: Validacion XML - XSD 3
+-->
+<articulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="precios.xsd">
+    <articulo>
+        <nombre>Mesa</nombre>
+        <precio moneda="Euro">50</precio>
+    </articulo>
+    <articulo>
+        <nombre>Silla</nombre>
+        <precio moneda="Dólar">78.99</precio>
+    </articulo>
+</articulos>
